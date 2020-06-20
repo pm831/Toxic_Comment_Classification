@@ -40,6 +40,9 @@ test_labels.csv - labels for the test data; value of -1 indicates it was not use
 ### Use Case
 Build a model to predict a probability for each of the six possible types of comment toxicity (toxic, severetoxic, obscene, threat, insult, identity, and hate)
 
+### Tool
+Python (Jupyter Notebook)
+
 ### Data
 You are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior.
 
