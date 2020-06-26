@@ -64,6 +64,12 @@ insult
 
 identity_hate
 
+### Data Visualization
+
+Python (Jupyter Notebook) Visualizations
+
+https://github.com/pm831/Toxic_Comment_Classification/blob/master/Toxic_Comment_Classification.ipynb
+
 Comment Text Distribution
 
 ![output_22_1](https://user-images.githubusercontent.com/19572673/85776545-d2016580-b6ee-11ea-84e1-1e913763cc11.png)
