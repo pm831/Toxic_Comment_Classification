@@ -88,17 +88,22 @@ Code to create bar graph of F1 and Recall across each label for Linear SVC
 
 ![output_39_2](https://user-images.githubusercontent.com/19572673/85776557-d3329280-b6ee-11ea-90de-cfd67d4f0514.png)
 
+Confusion Matrix: Multinomial Naive Bayes
 
 ![output_42_1](https://user-images.githubusercontent.com/19572673/85776559-d3329280-b6ee-11ea-8b69-0bd7330a8bc7.png)
 
+Confusion Matrix: Logistic Regression
 
 ![output_42_3](https://user-images.githubusercontent.com/19572673/85776561-d3329280-b6ee-11ea-8821-fdce94e24abc.png)
 
+Confusion Matrix: Linear SVC
 
 ![output_42_5](https://user-images.githubusercontent.com/19572673/85776564-d3329280-b6ee-11ea-914a-6bedd5ef973e.png)
 
+Word Cloud
 
 ![output_58_0](https://user-images.githubusercontent.com/19572673/85776566-d3329280-b6ee-11ea-99be-446a09ea3ae3.png)
 
+Learning Curves (Linear SVC) for TOXIC
 
 ![output_62_1](https://user-images.githubusercontent.com/19572673/85776569-d3cb2900-b6ee-11ea-8815-5b5600aef151.png)
