@@ -64,20 +64,27 @@ insult
 
 identity_hate
 
+Comment Text Distribution
+
 ![output_22_1](https://user-images.githubusercontent.com/19572673/85776545-d2016580-b6ee-11ea-84e1-1e913763cc11.png)
 
+Labels Frequency Plot (toxic, severe_toxic, obscene, threat, insult, identity_hate)
 
 ![output_24_1](https://user-images.githubusercontent.com/19572673/85776549-d2016580-b6ee-11ea-8545-48da1594c232.png)
 
+Visualizing F1 score results through box-plot.
 
 ![output_36_0](https://user-images.githubusercontent.com/19572673/85776551-d299fc00-b6ee-11ea-88cd-8c11d9358b03.png)
 
+Code to create bar graph of F1 and Recall across each label for Multinomial Naive Bayes
 
 ![output_37_2](https://user-images.githubusercontent.com/19572673/85776554-d299fc00-b6ee-11ea-8947-181f8d94163d.png)
 
+Code to create bar graph of F1 and Recall across each label for Logistic regression
 
 ![output_38_2](https://user-images.githubusercontent.com/19572673/85776555-d299fc00-b6ee-11ea-882d-ddaddcdc78d1.png)
 
+Code to create bar graph of F1 and Recall across each label for Linear SVC
 
 ![output_39_2](https://user-images.githubusercontent.com/19572673/85776557-d3329280-b6ee-11ea-90de-cfd67d4f0514.png)
 
